@@ -1,0 +1,8 @@
+pydantic>=2.6,<3
+pydantic-settings>=2.0,<3
+httpx>=0.25,<1
+yt-dlp>=2024.10.22
+pytchat>=0.5.5
+prometheus_client>=0.20.0
+fastapi>=0.115.0
+uvicorn>=0.32.0
